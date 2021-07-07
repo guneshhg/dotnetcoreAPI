@@ -1,0 +1,15 @@
+C:\Users\gunes\source\repos\CompanyEmployee.API\Contractss\bin\Debug\net5.0\Contractss.deps.json
+C:\Users\gunes\source\repos\CompanyEmployee.API\Contractss\bin\Debug\net5.0\Contractss.dll
+C:\Users\gunes\source\repos\CompanyEmployee.API\Contractss\bin\Debug\net5.0\ref\Contractss.dll
+C:\Users\gunes\source\repos\CompanyEmployee.API\Contractss\bin\Debug\net5.0\Contractss.pdb
+C:\Users\gunes\source\repos\CompanyEmployee.API\Contractss\obj\Debug\net5.0\Contractss.csproj.AssemblyReference.cache
+C:\Users\gunes\source\repos\CompanyEmployee.API\Contractss\obj\Debug\net5.0\Contractss.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gunes\source\repos\CompanyEmployee.API\Contractss\obj\Debug\net5.0\Contractss.AssemblyInfoInputs.cache
+C:\Users\gunes\source\repos\CompanyEmployee.API\Contractss\obj\Debug\net5.0\Contractss.AssemblyInfo.cs
+C:\Users\gunes\source\repos\CompanyEmployee.API\Contractss\obj\Debug\net5.0\Contractss.csproj.CoreCompileInputs.cache
+C:\Users\gunes\source\repos\CompanyEmployee.API\Contractss\obj\Debug\net5.0\Contractss.dll
+C:\Users\gunes\source\repos\CompanyEmployee.API\Contractss\obj\Debug\net5.0\ref\Contractss.dll
+C:\Users\gunes\source\repos\CompanyEmployee.API\Contractss\obj\Debug\net5.0\Contractss.pdb
+C:\Users\gunes\source\repos\CompanyEmployee.API\Contractss\bin\Debug\net5.0\Entities.dll
+C:\Users\gunes\source\repos\CompanyEmployee.API\Contractss\bin\Debug\net5.0\Entities.pdb
+C:\Users\gunes\source\repos\CompanyEmployee.API\Contractss\obj\Debug\net5.0\Contractss.csproj.CopyComplete
